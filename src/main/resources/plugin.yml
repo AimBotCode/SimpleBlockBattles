@@ -1,0 +1,5 @@
+name: SimpleBlockBattles
+version: '${project.version}'
+main: com.aimbotcode.simpleblockbattles.SimpleBlockBattles
+api-version: 1.19
+authors: [ AimBotCode ]
