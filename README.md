@@ -13,7 +13,7 @@ To Ask me any questions (Send message requests): AimBotCode#6928
 
 ✔️ Complete Config File Control
 
-✔️ Player Leaves the board
+✔️ Player Leaves the board then they lose
 
 ✔️ Player plays illegal block and dies
 
