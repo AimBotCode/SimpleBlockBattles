@@ -1,27 +1,32 @@
-# SimpleBlockBattles
+# 🧱 SimpleBlockBattles 🧱
 
 Please note: This is not a complete version of block battles due to it not having all of the new rules and kits!
 
 
-Official Block Battles Server: https://discord.gg/blockbattles
+Official Block Battles Discord Server: https://discord.gg/blockbattles
 
-Ask me any questions (Send message requests): AimBotCode#6928
+To Ask me any questions (Send message requests): AimBotCode#6928
 
-# 🗸 Things Done 🗸:
+# ✔️ Things Done ✔️:
 
-🗸 Block Battles Board Support
+✔️ Block Battles Board Support
 
-🗸 Complete Config File Controll
+✔️ Complete Config File Control
 
-🗸 Player Leaves the board
+✔️ Player Leaves the board
 
-🗸 Player plays illegal block and dies
+✔️ Player plays illegal block and dies
 
-🗸 Customizable Illegal Blocks, Prize Item, And Board location  (Note: Board needs The block that is the highest up and farthest to the left.)
+✔️ Customizable Illegal Blocks, Prize Item (if active), Player Spawn (after game ends),And Board location  (Note: Board needs The block that is the highest up and farthest to the left.)
 
-# Things to do:
+# ❌ Things to do ❌:
 
-  Rules
+  ❌ Block Rules (This will take a while to code gimme a few centuries)
   
-  Game Start and Ending (Working on right now)
+  ❌ Game Start and Ending (Working on right now)
+  
+  ❌ Kits (Working on later)
+  
+  ❌ Item Rules (This will be made after block rules so gimme a few millenium)
+
   
