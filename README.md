@@ -6,7 +6,7 @@ Please note: This is not a complete version of block battles due to it not havin
 Official Block Battles Server: https://discord.gg/blockbattles
 Ask me any questions (Send message requests): AimBotCode#6928
 
-Things Done:
+🗸Things Done🗸:
 
 🗸 Block Battles Board Support
 
